@@ -1,0 +1,27 @@
+body,html{
+  background: #002b36;
+  font-size: 20px;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: ‘Lucida Console’, Monaco, monospace;
+}
+
+p {
+    color: #cccccc;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.content-box {
+    display: inline-block;
+    margin: auto;
+}
