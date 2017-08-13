@@ -1,27 +1,33 @@
-body,html{
-  background: #002b36;
-  font-size: 20px;
+﻿body,html{
+  background: #102038;
+  font-size: 22px;
   font-weight: 100;
   display: flex;
   justify-content: center;
 }
 
 h1 {
-    color: #ffffff;
-    font-family: ‘Lucida Console’, Monaco, monospace;
+    color: #fff;
+    font-family: 'Segoe UI', 'Helvetica', 'Verdana', sans-serif;
 }
 
 p {
-    color: #cccccc;
+    color: #dde;
     font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
 }
 
 a {
     text-decoration: none;
-    color: #ffffff;
+    color: #fff;
+}
+
+a:hover {
+    color: #c5dcf0; 
 }
 
 .content-box {
     display: inline-block;
     margin: auto;
+    margin-top: 150px;
+    width: 70%;
 }
